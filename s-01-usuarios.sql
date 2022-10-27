@@ -3,7 +3,6 @@
 --@Descripción: Este archivo contiene la creación de usuarios para 
 --el proyecto Pet Home
 
-
 declare
   v_count number;
 begin
